@@ -51,7 +51,7 @@
     "donejs": "^2.0.0-pre.0",
     "donejs-cli": "^2.0.0-pre.0",
     "firebase-tools": "^3.9.1",
-    "jshint": "^2.9.1",
+    "jshint": "^2.9.7",
     "maildev": "^0.12.2"
   },
   "urls": {
