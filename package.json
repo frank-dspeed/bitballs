@@ -16,7 +16,7 @@
     "deploy:ci": "firebase deploy --token \"$FIREBASE_TOKEN\""
   },
   "dependencies": {
-    "async": "^2.4.1",
+    "async": "^3.2.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.13.3",
     "bookshelf": "^0.10.3",
