@@ -19,7 +19,7 @@
     "async": "^2.4.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.13.3",
-    "bookshelf": "^0.10.3",
+    "bookshelf": "^1.1.1",
     "checkit": "^0.7.0",
     "cookie-parser": "^1.4.1",
     "db-migrate": "^0.9.26",
