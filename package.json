@@ -28,7 +28,7 @@
     "express-session": "^1.11.3",
     "knex": "^0.12.0",
     "lodash": "^4.17.4",
-    "nodemailer": "^2.7.2",
+    "nodemailer": "^6.4.8",
     "passport": "^0.2.2",
     "passport-local": "^1.0.0",
     "pg": "4.5.6"
